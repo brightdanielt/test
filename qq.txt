@@ -2,6 +2,7 @@ text change 2
 
 colon +
 
+
 push
 
 +change text3
@@ -9,3 +10,6 @@ push
 +commit
 
 +push
+
+push
+
